@@ -1,0 +1,14 @@
+C:\Games\homeworkgroup4972\Sem2Task10\bin\Debug\net7.0\Sem2Task10.exe
+C:\Games\homeworkgroup4972\Sem2Task10\bin\Debug\net7.0\Sem2Task10.deps.json
+C:\Games\homeworkgroup4972\Sem2Task10\bin\Debug\net7.0\Sem2Task10.runtimeconfig.json
+C:\Games\homeworkgroup4972\Sem2Task10\bin\Debug\net7.0\Sem2Task10.dll
+C:\Games\homeworkgroup4972\Sem2Task10\bin\Debug\net7.0\Sem2Task10.pdb
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\Sem2Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\Sem2Task10.AssemblyInfoInputs.cache
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\Sem2Task10.AssemblyInfo.cs
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\Sem2Task10.csproj.CoreCompileInputs.cache
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\Sem2Task10.dll
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\refint\Sem2Task10.dll
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\Sem2Task10.pdb
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\Sem2Task10.genruntimeconfig.cache
+C:\Games\homeworkgroup4972\Sem2Task10\obj\Debug\net7.0\ref\Sem2Task10.dll

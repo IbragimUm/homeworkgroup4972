@@ -1,0 +1,14 @@
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\Sem2Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\Sem2Task15.AssemblyInfoInputs.cache
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\Sem2Task15.AssemblyInfo.cs
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\Sem2Task15.csproj.CoreCompileInputs.cache
+C:\Games\homeworkgroup4972\Sem2Task15\bin\Debug\net7.0\Sem2Task15.exe
+C:\Games\homeworkgroup4972\Sem2Task15\bin\Debug\net7.0\Sem2Task15.deps.json
+C:\Games\homeworkgroup4972\Sem2Task15\bin\Debug\net7.0\Sem2Task15.runtimeconfig.json
+C:\Games\homeworkgroup4972\Sem2Task15\bin\Debug\net7.0\Sem2Task15.dll
+C:\Games\homeworkgroup4972\Sem2Task15\bin\Debug\net7.0\Sem2Task15.pdb
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\Sem2Task15.dll
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\refint\Sem2Task15.dll
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\Sem2Task15.pdb
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\Sem2Task15.genruntimeconfig.cache
+C:\Games\homeworkgroup4972\Sem2Task15\obj\Debug\net7.0\ref\Sem2Task15.dll
