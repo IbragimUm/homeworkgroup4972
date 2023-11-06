@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj": {}
+    "C:\\Games\\homeworkgroup4972\\Sem6Task43\\Sem6Task43.csproj": {}
   },
   "projects": {
-    "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj": {
+    "C:\\Games\\homeworkgroup4972\\Sem6Task43\\Sem6Task43.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj",
-        "projectName": "Sem4Task27",
-        "projectPath": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj",
+        "projectUniqueName": "C:\\Games\\homeworkgroup4972\\Sem6Task43\\Sem6Task43.csproj",
+        "projectName": "Sem6Task43",
+        "projectPath": "C:\\Games\\homeworkgroup4972\\Sem6Task43\\Sem6Task43.csproj",
         "packagesPath": "C:\\Users\\иба\\.nuget\\packages\\",
-        "outputPath": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\obj\\",
+        "outputPath": "C:\\Games\\homeworkgroup4972\\Sem6Task43\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\иба\\AppData\\Roaming\\NuGet\\NuGet.Config"

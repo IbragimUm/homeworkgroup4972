@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj",
-      "projectName": "Sem4Task27",
-      "projectPath": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj",
+      "projectUniqueName": "C:\\Games\\homeworkgroup4972\\Sem6Task41\\Sem6Task41.csproj",
+      "projectName": "Sem6Task41",
+      "projectPath": "C:\\Games\\homeworkgroup4972\\Sem6Task41\\Sem6Task41.csproj",
       "packagesPath": "C:\\Users\\иба\\.nuget\\packages\\",
-      "outputPath": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\obj\\",
+      "outputPath": "C:\\Games\\homeworkgroup4972\\Sem6Task41\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\иба\\AppData\\Roaming\\NuGet\\NuGet.Config"

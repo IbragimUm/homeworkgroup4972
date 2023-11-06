@@ -1,0 +1,14 @@
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\Sem6Task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\Sem6Task43.AssemblyInfoInputs.cache
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\Sem6Task43.AssemblyInfo.cs
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\Sem6Task43.csproj.CoreCompileInputs.cache
+C:\Games\homeworkgroup4972\Sem6Task43\bin\Debug\net7.0\Sem6Task43.exe
+C:\Games\homeworkgroup4972\Sem6Task43\bin\Debug\net7.0\Sem6Task43.deps.json
+C:\Games\homeworkgroup4972\Sem6Task43\bin\Debug\net7.0\Sem6Task43.runtimeconfig.json
+C:\Games\homeworkgroup4972\Sem6Task43\bin\Debug\net7.0\Sem6Task43.dll
+C:\Games\homeworkgroup4972\Sem6Task43\bin\Debug\net7.0\Sem6Task43.pdb
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\Sem6Task43.dll
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\refint\Sem6Task43.dll
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\Sem6Task43.pdb
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\Sem6Task43.genruntimeconfig.cache
+C:\Games\homeworkgroup4972\Sem6Task43\obj\Debug\net7.0\ref\Sem6Task43.dll

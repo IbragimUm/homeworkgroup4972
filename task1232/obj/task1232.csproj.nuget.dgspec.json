@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj": {}
+    "C:\\Games\\homeworkgroup4972\\task1232\\task1232.csproj": {}
   },
   "projects": {
-    "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj": {
+    "C:\\Games\\homeworkgroup4972\\task1232\\task1232.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj",
-        "projectName": "Sem4Task27",
-        "projectPath": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\Sem4Task27.csproj",
+        "projectUniqueName": "C:\\Games\\homeworkgroup4972\\task1232\\task1232.csproj",
+        "projectName": "task1232",
+        "projectPath": "C:\\Games\\homeworkgroup4972\\task1232\\task1232.csproj",
         "packagesPath": "C:\\Users\\иба\\.nuget\\packages\\",
-        "outputPath": "C:\\Games\\homeworkgroup4972\\Sem4Task27\\obj\\",
+        "outputPath": "C:\\Games\\homeworkgroup4972\\task1232\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\иба\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
